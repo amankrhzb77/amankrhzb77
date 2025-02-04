@@ -3,7 +3,7 @@
  <h3 align="center">I am a Full-stack developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **Javascript,ReactJS,Java(Core)**
+- 💬 Ask me about **Javascript, ReactJS, NodeJs, Java(Core)**
 - 📫 How to reach me: amankrhzb77@gmail.com
 - 📄 Know about my experiences: https://drive.google.com/file/d/1n9nVgYkgKYFFWezX_KoKH-7m_Dw6Eum3/view?usp=drive_link
 
