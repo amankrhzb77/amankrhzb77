@@ -3,9 +3,9 @@
  <h3 align="center">I am a Full-stack developer</h3>
 
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **MERN Stack**
   
-- 💬 Ask me about **Javascript, AngularJS, NodeJs, Java(Core)**
+- 💬 Ask me about **Javascript, React, NodeJs, Java(Core)**
   
 - 📫 How to reach me: amankrhzb77@gmail.com
   
