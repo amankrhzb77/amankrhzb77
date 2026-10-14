@@ -45,7 +45,7 @@ Technical Trainer | DSA Trainer | Java | MERN Stack | Full Stack Development
 
 - 📫 How to reach me: amankrhzb77@gmail.com
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1n9nVgYkgKYFFWezX_KoKH-7m_Dw6Eum3/view?usp=drive_link
+
 
 
 
